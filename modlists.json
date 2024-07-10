@@ -1,0 +1,36 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "High and Dry",
+    "description": "High and Dry is my personal modlist that uses Viva New Vegas as a base and boasting 500+ mods total",
+    "author": "Jayer117",
+    "maintainers": [
+      "github/Jayer117-ball"
+    ],
+    "game": "fallout: New Vegas",
+    "tags": [
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image":,
+      "readme": "https://sites.google.com/view/highanddrywabbajack?usp=sharing",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "highanddry",
+      "discordURL": "https://discord.gg/yxMfACep"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "8typai7+PyA=",
+      "Size": 507100880,
+      "NumberOfArchives": 530,
+      "SizeOfArchives": 25894552324,
+      "NumberOfInstalledFiles": 72656,
+      "SizeOfInstalledFiles": 44032491394
+    },
+    "version": "1.0"
+  }
+]
+

@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image":,
+      "image":"",
       "readme": "https://sites.google.com/view/highanddrywabbajack?usp=sharing",
       "download": "https://authored-files.wabbajack.org/High%20and%20Dry.wabbajack_69587e36-0a5f-49f0-bbf9-d446ff054f2d",
       "machineURL": "highanddry",

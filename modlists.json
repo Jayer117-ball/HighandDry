@@ -22,20 +22,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image":"https://raw.githubusercontent.com/Jayer117-ball/HighandDry/main/HighandDry.png",
       "readme": "https://sites.google.com/view/highanddrywabbajack?usp=sharing",
-      "download": "https://authored-files.wabbajack.org/High%20and%20Dry.wabbajack_69587e36-0a5f-49f0-bbf9-d446ff054f2d",
+      "download": "https://authored-files.wabbajack.org/High%20and%20Dry.wabbajack_2ef948f6-4842-4644-a8f3-89cbb528732e",
       "machineURL": "highanddry",
       "discordURL": "https://discord.gg/yxMfACep"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "8typai7+PyA=",
-      "Size": 507100880,
-      "NumberOfArchives": 530,
-      "SizeOfArchives": 25894552324,
-      "NumberOfInstalledFiles": 72656,
-      "SizeOfInstalledFiles": 44032491394
+      "Hash": "1YKrNNPdfKo=",
+      "Size": 525352551,
+      "NumberOfArchives": 524,
+      "SizeOfArchives": 25570988615,
+      "NumberOfInstalledFiles": 72483,
+      "SizeOfInstalledFiles": 44019890750
     },
-    "version": "1.0"
+    "version": "1.1"
   }
 ]
 

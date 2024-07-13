@@ -1,13 +1,13 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "High and Dry",
-    "description": "High and Dry is my personal modlist that uses Viva New Vegas as a base and boasting 500+ mods total to bring a better gameplay experience, visuals, animations, and user interface all while making the game feel updated and new with different overhauls and content that feels like it should've been there from release.",
+    "description": "High and Dry is my personal modlist that uses Viva New Vegas as a base and boasting 500\u002B mods total to bring a better gameplay experience, visuals, animations, and user interface all while making the game feel updated and new with different overhauls and content that feels like it should\u0027ve been there from release.",
     "author": "Jayer117",
     "maintainers": [
       "github/Jayer117-ball"
     ],
     "game": "falloutnewvegas",
+    "official": false,
     "tags": [
       "Stability",
       "Consistent",
@@ -16,26 +16,28 @@
       "Lore-friendly"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image":"https://raw.githubusercontent.com/Jayer117-ball/HighandDry/main/HighandDry.png",
+      "image": "https://raw.githubusercontent.com/Jayer117-ball/HighandDry/main/HighandDry.png",
       "readme": "https://sites.google.com/view/highanddrywabbajack?usp=sharing",
-      "download": "https://authored-files.wabbajack.org/High%20and%20Dry.wabbajack_2ef948f6-4842-4644-a8f3-89cbb528732e",
+      "download": "https://authored-files.wabbajack.org/High and Dry.wabbajack_7608ce79-0fb5-4a70-90ce-5cdd4606fb6d",
       "machineURL": "highanddry",
       "discordURL": "https://discord.gg/yxMfACep"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "1YKrNNPdfKo=",
-      "Size": 525352551,
-      "NumberOfArchives": 524,
-      "SizeOfArchives": 25570988615,
-      "NumberOfInstalledFiles": 72483,
-      "SizeOfInstalledFiles": 44019890750
+      "Hash": "NEWdyBkaA+Q=",
+      "Size": 524865460,
+      "NumberOfArchives": 530,
+      "SizeOfArchives": 25753829578,
+      "NumberOfInstalledFiles": 72561,
+      "SizeOfInstalledFiles": 45035705099
     },
-    "version": "1.1"
+    "version": "1.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-07-13T02:48:29.7971624Z",
+    "repositoryName": ""
   }
 ]
-

@@ -1,7 +1,7 @@
 [
   {
     "title": "High and Dry",
-    "description": "High and Dry uses Viva New Vegas and SALVO as a base that boasts 550+ mods total to bring better stability, gameplay, visual, animation, and user interface experiences all while making the game feel updated and new with different overhauls and content.",
+    "description": "High and Dry uses Viva New Vegas and SALVO as a base that boasts 550\u002B mods total to bring better stability, gameplay, visual, animation, and user interface experiences all while making the game feel updated and new with different overhauls and content.",
     "author": "Jayer117",
     "maintainers": [
       "github/Jayer117-ball"
@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Jayer117-ball/HighandDry/main/HighandDry.png",
       "readme": "https://sites.google.com/view/highanddrywabbajack?usp=sharing",
-      "download": "https://authored-files.wabbajack.org/High and Dry.wabbajack_9dbfe713-8b50-4d08-b584-89ba26b680bd",
+      "download": "https://authored-files.wabbajack.org/High \u0026 Dry.wabbajack_c3ac0015-b1af-45e0-acf7-eaa23d175ee4",
       "machineURL": "highanddry",
       "discordURL": "https://discord.gg/yxMfACep"
     },
     "download_metadata": {
-      "Hash": "6R7lSAxcwF8=",
-      "Size": 577426704,
-      "NumberOfArchives": 620,
-      "SizeOfArchives": 36717740841,
-      "NumberOfInstalledFiles": 80597,
-      "SizeOfInstalledFiles": 61691850786
+      "Hash": "RV4K8ynxnF0=",
+      "Size": 295190272,
+      "NumberOfArchives": 365,
+      "SizeOfArchives": 23997511408,
+      "NumberOfInstalledFiles": 35338,
+      "SizeOfInstalledFiles": 50129182906
     },
-    "version": "2.1",
+    "version": "2.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-10-01T23:12:59.0587871Z",
+    "dateUpdated": "2024-10-05T06:45:22.680563Z",
     "repositoryName": ""
   }
 ]

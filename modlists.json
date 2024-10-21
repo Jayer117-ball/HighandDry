@@ -1,6 +1,6 @@
 [
   {
-    "title": "High and Dry",
+    "title": "High & Dry",
     "description": "High and Dry uses Viva New Vegas as a base and builds off of it to boast 550+ mods total to bring better stability, gameplay, visual, animation, and user interface experiences all while making the game feel updated and new with different overhauls and content.",
     "author": "Jayer117",
     "maintainers": [
@@ -21,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Jayer117-ball/HighandDry/main/WJImage.png",
+      "image": "https://raw.githubusercontent.com/Jayer117-ball/HighandDry/main/WJImage2.png",
       "readme": "https://sites.google.com/view/highanddrywabbajack?usp=sharing",
       "download": "https://authored-files.wabbajack.org/High and Dry.wabbajack_c0e36411-ef61-4db4-af76-044552c52a8e",
       "machineURL": "highanddry",

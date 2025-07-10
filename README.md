@@ -1,3 +1,6 @@
+
+![Banner Readme](https://github.com/user-attachments/assets/cd44d8cf-4901-48e6-9577-daa3a7deb2fc)
+
 # High and Dry Modlist Installation Guide
 
 Welcome! This guide will help you install my **Fallout: New Vegas** modlist using **Wabbajack**. Whether you’re new to modding or just need some extra guidance, follow these steps carefully, and you’ll be playing a fully modded New Vegas in no time!

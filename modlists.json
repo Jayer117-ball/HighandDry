@@ -19,10 +19,10 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Jayer117-ball/HighandDry/main/WJImage2.png",
-      "readme": "https://github.com/Jayer117-ball/HighandDry/blob/main/README.md",
+      "readme": "https://github.com/Jayer117-ball/HighandDry/blob/4d0dac748ff4122286b2c7195afccbcc109505ba/README.md",
       "download": "https://authored-files.wabbajack.org/Output.wabbajack_8ed5cd26-92af-4926-84ac-8a72e4d94f73",
       "machineURL": "highanddry",
       "discordURL": "https://discord.gg/zV5zACunk3",

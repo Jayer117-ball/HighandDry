@@ -78,7 +78,7 @@ In Wabbajack:
 
 ### ⚙️ DXVK or Heap Replacer (Choose One)
 
-- **Default (Recommended):** DXVK 2.5.3 (already included)
+- **Default (Recommended):** DXVK 2.6.1 (already included in the Root Mods folder)
 - **Alternative:** [Heap Replacer](https://www.nexusmods.com/newvegas/mods/68714) — install **only** if DXVK doesn't work on your system
 
 > ⚠️ **Only use one**, not both

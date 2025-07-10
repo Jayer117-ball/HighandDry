@@ -58,6 +58,7 @@ In Wabbajack:
 
 - ✅ If successful: You'll see **"Installation Complete"**
 - ❌ If failed: Log in to Nexus Mods again via Wabbajack and try reinstalling
+- ❌ If failed: Validate files in Steam
 
 ---
 

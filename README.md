@@ -162,7 +162,7 @@ To update:
     - Strip Cinematic Lighting Overhaul
 
 - Disable:
-  - Weathers Revised + Weather Variation (located in the **Weather Visuals** separator
+  - Weathers Revised + Weather Variation (located in the **Weather Visuals** separator)
   - 3D Rain + patches
   - High Resolution Bloom
   - Non-NVR versions of the mods of:

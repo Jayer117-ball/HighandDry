@@ -143,14 +143,15 @@ To update:
 1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.gg/tesreloaded)
 2. In MO2:
 - Set NVR load order:
-  - **787** = Normal/HC
-  - **550** = Performance
+  - **808** = Normal/HC
+  - **564** = Performance
 - Enable:
   - Cartographer
-  - Desert Natural Weathers + Dry Wells Patch
+  - NVR - Lucky 38 Shadows Fix
+  - High and Dry NVR Main Menu Replacer
+  - Desert Natural Weathers + Performance + Dry Wells Patch
   - Neutral Weathers
-  - An NVR Preset (e.g., Caffeine NVR or Performance NVR)
-  - High and Dry Menu Replacer
+  - Caffeine NVR + Performance recommended
   - Sundry NVR Fixes Reloaded 2
   - SFX NVR Pack
   - Special Series – Fire Barrel FX
@@ -159,10 +160,12 @@ To update:
     - Strip Cinematic Lighting Overhaul
 
 - Disable:
-  - Weathers Revised + Weather Variation
+  - Weathers Revised + Weather Variation (located in the **Weather Visuals** separator
   - 3D Rain + patches
   - High Resolution Bloom
-  - Non-NVR versions of the mods above
+  - Non-NVR versions of the mods of:
+    - Lucky 38 Exterior Remastered
+    - Strip Cinematic Lighting Overhaul 
 
 ---
 

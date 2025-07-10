@@ -128,6 +128,7 @@ To update:
 4. Add `[NoDelete]` to:
 - Vanilla UI Extension
 - New Vegas Reloaded
+- Shader Package #
 
 ---
 

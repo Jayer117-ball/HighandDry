@@ -1,5 +1,5 @@
-# HighandDry
-This is my High and Dry Modlist
+# High and Dry
+
 # High and Dry Modlist Installation Guide
 
 Welcome! This guide will help you install my **Fallout: New Vegas** modlist using **Wabbajack**. Whether you’re new to modding or just need some extra guidance, follow these steps carefully, and you’ll be playing a fully modded New Vegas in no time!

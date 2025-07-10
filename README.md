@@ -109,7 +109,7 @@ In Wabbajack:
 Documents\My Games\FalloutNV
 2. Open `RendererInfo.txt`
 3. Find your **shader model** (2nd line from bottom)
-4. Download the correct shader package based on your model
+4. Download the correct [shader package](https://www.nexusmods.com/newvegas/mods/69135) based on your model
 5. Install it into MO2 like any other mod
 
 ---
@@ -141,7 +141,7 @@ To update:
 
 ### 🌃 New Vegas Reloaded (NVR)
 
-1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.gg/tesreloaded)
+1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.com/invite/BYY7SNfQeJ)
 2. In MO2:
 - Set NVR load order:
   - **808** = Normal/HC

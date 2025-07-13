@@ -74,7 +74,7 @@ In Wabbajack:
 
 ### 📜 Install Vanilla UI Extension
 
-1. Download [Vanilla UI Extension](https://www.moddb.com/mods/vanilla-ui-extension)
+1. Download [Vanilla UI Extension](https://www.moddb.com/mods/vanilla-ui-extension/downloads/vanilla-ui-extension-10)
 2. Install it manually through **Mod Organizer 2**
 3. Place it **after Vanilla UI Plus** in the left pane
 

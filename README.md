@@ -17,6 +17,8 @@ Before we start, make sure you have:
 - The latest **VC++ Redistributables**:  
   👉 [VC++ AIO Download](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)  
   → Extract the archive and run `install_all.bat` as administrator
+- DirectX End-User Runtime
+  👉 [DirectX Download](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - Read the **Introduction** and **Setup** pages from the [Viva New Vegas Guide](https://vivanewvegas.moddinglinked.com/intro.html)
 - Restart your PC
 

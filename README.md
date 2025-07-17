@@ -148,8 +148,8 @@ To update:
 1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.com/invite/BYY7SNfQeJ)
 2. In MO2:
 - Set NVR load order:
-  - **808** = Normal/HC
-  - **564** = Performance
+  - **811** = Normal/HC
+  - **565** = Performance
 - Enable:
   - Cartographer
   - NVR - Lucky 38 Shadows Fix

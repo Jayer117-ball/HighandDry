@@ -193,7 +193,7 @@ There are **3 profiles**:
 
 ## 🎮 Hotkeys
 
-🧭 In-Game Menu Shortcuts
+### 🧭 In-Game Menu Shortcuts
 | Key                           | Action                       |
 | ----------------------------- | ---------------------------- |
 | `ESC`                         | Pause Menu                   |
@@ -202,7 +202,7 @@ There are **3 profiles**:
 | `T`                           | Achievements Menu            |
 | 🔼 *(Up Arrow, bottom right)* | HUD Editor                   |
 
-⌨️ Keyboard Controls
+### ⌨️ Keyboard Controls
 | Key / Combo     | Action                                     |
 | --------------- | ------------------------------------------ |
 | `WASD`          | Move                                       |
@@ -228,7 +228,7 @@ There are **3 profiles**:
 | `Hold 1`        | JIP Follower Commands                      |
 | `2`             | Follower Wait *(Hold to make them follow)* |
 
-🖱️ Mouse
+### 🖱️ Mouse
 | Button           | Action      |
 | ---------------- | ----------- |
 | `Mouse Button 3` | Bullet Time |

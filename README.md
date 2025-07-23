@@ -191,6 +191,49 @@ There are **3 profiles**:
 
 ---
 
+🎮 Hotkeys
+🧭 In-Game Menu Shortcuts
+| Key                           | Action                       |
+| ----------------------------- | ---------------------------- |
+| `ESC`                         | Pause Menu                   |
+| `N`                           | Menu Overhauls               |
+| `M`                           | Mod Configuration Menu (MCM) |
+| `T`                           | Achievements Menu            |
+| 🔼 *(Up Arrow, bottom right)* | HUD Editor                   |
+
+⌨️ Keyboard Controls
+| Key / Combo     | Action                                     |
+| --------------- | ------------------------------------------ |
+| `WASD`          | Move                                       |
+| `E`             | Activate / Interact                        |
+| `Tab`           | Open Pip-Boy                               |
+| `R`             | Ready / Reload weapon                      |
+| `L-Ctrl`        | Sneak *(Hold to Prone)*                    |
+| `L-Shift`       | Sprint                                     |
+| `L-Alt`         | Hold Breath                                |
+| `Caps Lock`     | Toggle Always Run                          |
+| `Q`             | Toggle Always Move                         |
+| `Space`         | Jump                                       |
+| `F`             | Change View (1st/3rd Person)               |
+| `T`             | Wait                                       |
+| `V`             | V.A.T.S.                                   |
+| `J`             | Toggle Quest Log                           |
+| `G`             | Throw Grenade *(B42 Quickthrow)*           |
+| `H`             | Select Grenade                             |
+| `R`             | Stop Grenade Throw                         |
+| `O`             | Ammo Check                                 |
+| `P`             | Weapon Condition Check                     |
+| `X` + `Q` / `E` | Lean Left / Right While Aiming             |
+| `Hold 1`        | JIP Follower Commands                      |
+| `2`             | Follower Wait *(Hold to make them follow)* |
+
+🖱️ Mouse
+| Button           | Action      |
+| ---------------- | ----------- |
+| `Mouse Button 3` | Bullet Time |
+
+---
+
 ## 🆘 Need Help?
 
 - **Game won’t launch?**  

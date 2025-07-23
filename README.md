@@ -191,7 +191,7 @@ There are **3 profiles**:
 
 ---
 
-##🎮 Hotkeys
+## 🎮 Hotkeys
 
 🧭 In-Game Menu Shortcuts
 | Key                           | Action                       |

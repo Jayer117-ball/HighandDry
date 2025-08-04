@@ -148,15 +148,15 @@ To update:
 1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.com/invite/BYY7SNfQeJ)
 2. In MO2:
 - Set NVR load order:
-  - **811** = Normal/HC
-  - **565** = Performance
+  - **814** = Normal/HC
+  - **537** = Performance
 - Enable:
   - Cartographer
   - NVR - Lucky 38 Shadows Fix
   - High and Dry NVR Main Menu Replacer
   - Desert Natural Weathers + Performance + Dry Wells Patch
   - Neutral Weathers
-  - Caffeine NVR + Performance recommended
+  - Caffeine NVR + Performance + RTR
   - Sundry NVR Fixes Reloaded 2
   - SFX NVR Pack
   - Special Series – Fire Barrel FX

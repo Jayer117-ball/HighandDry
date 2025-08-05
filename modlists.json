@@ -22,11 +22,11 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Jayer117-ball/HighandDry/main/cropped-HighandDryWJ.png",
-      "readme": "https://github.com/Jayer117-ball/HighandDry/blob/4d0dac748ff4122286b2c7195afccbcc109505ba/README.md",
+      "readme": "https://github.com/Jayer117-ball/HighandDry/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Output.wabbajack_9392d8b6-39da-4146-ace3-d0475cf6219c",
       "machineURL": "highanddry",
       "discordURL": "https://discord.gg/zV5zACunk3",
-      "websiteURL": "https://github.com/Jayer117-ball/HighandDry/blob/4d0dac748ff4122286b2c7195afccbcc109505ba/README.md"
+      "websiteURL": "https://github.com/Jayer117-ball/HighandDry/blob/main/README.md"
     },
     "download_metadata": {
       "Hash": "l/zgyr/gV+U=",
@@ -42,4 +42,5 @@
     "dateUpdated": "2025-08-05T04:41:09.329572Z",
     "repositoryName": ""
   }
+
 ]

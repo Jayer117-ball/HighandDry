@@ -23,23 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Jayer117-ball/HighandDry/main/cropped-HighandDryWJ.png",
       "readme": "https://github.com/Jayer117-ball/HighandDry/blob/4d0dac748ff4122286b2c7195afccbcc109505ba/README.md",
-      "download": "https://authored-files.wabbajack.org/Output.wabbajack_94afb2fa-b2ee-439e-9e67-a7df25c0183d",
+      "download": "https://authored-files.wabbajack.org/Output.wabbajack_9392d8b6-39da-4146-ace3-d0475cf6219c",
       "machineURL": "highanddry",
       "discordURL": "https://discord.gg/zV5zACunk3",
       "websiteURL": "https://github.com/Jayer117-ball/HighandDry/blob/4d0dac748ff4122286b2c7195afccbcc109505ba/README.md"
     },
     "download_metadata": {
-      "Hash": "GNK+aErC3RE=",
-      "Size": 323836223,
+      "Hash": "l/zgyr/gV+U=",
+      "Size": 323836191,
       "NumberOfArchives": 896,
       "SizeOfArchives": 27744871815,
       "NumberOfInstalledFiles": 69565,
-      "SizeOfInstalledFiles": 56585781045,
-      "TotalSize": 84330652860
+      "SizeOfInstalledFiles": 56585780980,
+      "TotalSize": 84330652795
     },
     "version": "3.9.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-04T22:15:36.3484231Z",
+    "dateUpdated": "2025-08-05T04:41:09.329572Z",
     "repositoryName": ""
   }
 ]

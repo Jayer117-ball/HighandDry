@@ -72,8 +72,8 @@ In Wabbajack:
 2. Click the Executable drop down and click on **FNVPatch**
 - Check to see if the Binary path is correct before running the patcher
 - https://github.com/Jayer117-ball/HighandDry/blob/main/4GB%20Patch.png
-4. MO2 will load the application
-5. After running `FNVpatch` — it should confirm:  
+3. MO2 will load the application
+4. After running `FNVpatch` — it should confirm:  
    `FalloutNV.exe patched!`
 
 ### 📜 Install Vanilla UI Extension

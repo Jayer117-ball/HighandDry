@@ -66,12 +66,14 @@ In Wabbajack:
 
 ## 📦 Post-Installation Steps
 
-### 🔁 Move Root Mods
+### 🔁 Run 4GB Patch
 
-1. Go to your **MO2 installation folder**
-2. Open the **Root Mods** folder
-3. Copy **all files** inside it into your **Fallout New Vegas game folder**
-4. Run `FNVpatch.exe` — it should confirm:  
+1. Open **Mod Organizer 2** that shipped with High and Dry
+2. Click the Executable drop down and click on **FNVPatch**
+- Check to see if the Binary path is correct before running the patcher
+ex: https://github.com/Jayer117-ball/HighandDry/blob/main/4GB%20Patch.png
+4. MO2 will load the application
+5. After running `FNVpatch` — it should confirm:  
    `FalloutNV.exe patched!`
 
 ### 📜 Install Vanilla UI Extension
@@ -82,8 +84,8 @@ In Wabbajack:
 
 ### ⚙️ DXVK or Heap Replacer (Choose One)
 
-- **Default (Recommended):** DXVK 2.6.1 (already included in the Root Mods folder)
-- **Alternative:** [Heap Replacer](https://www.nexusmods.com/newvegas/mods/69779) — install **only** if DXVK doesn't work on your system
+- **Default (Recommended):** DXVK 2.7
+- **Alternative:** New Vegas Heap Replacer. Older, not up to date
 
 > ⚠️ **Only use one**, not both
 
@@ -104,16 +106,11 @@ In Wabbajack:
 
 ---
 
-## 🛠️ Manual Installations
+## 🛠️ Tools
 
-### 🔧 Shader Package
+### GECK, FNVEdit
 
-1. Navigate to:  
-Documents\My Games\FalloutNV
-2. Open `RendererInfo.txt`
-3. Find your **shader model** (2nd line from bottom)
-4. Download the correct [shader package](https://www.nexusmods.com/newvegas/mods/69135) based on your model
-5. Install it into MO2 like any other mod
+
 
 ---
 
@@ -126,9 +123,7 @@ To update:
 2. For any manually added mods:
 - Add `[NoDelete]` to their names
 
-3. Reinstall Heap Replacer (if not using DXVK)
-
-4. Add `[NoDelete]` to:
+3. Add `[NoDelete]` to:
 - Vanilla UI Extension
 - New Vegas Reloaded
 - Shader Package #
@@ -170,7 +165,18 @@ To update:
   - High Resolution Bloom
   - Non-NVR versions of the mods of:
     - Lucky 38 Exterior Remastered
-    - Strip Cinematic Lighting Overhaul 
+    - Strip Cinematic Lighting Overhaul
+
+### 🔧 Shader Package
+
+This mod is optional but it does fix directional reflctions in your game, I recommend it.
+
+1. Navigate to:  
+Documents\My Games\FalloutNV
+2. Open `RendererInfo.txt`
+3. Find your **shader model** (2nd line from bottom)
+4. Download the correct [shader package](https://www.nexusmods.com/newvegas/mods/69135) based on your model
+5. Install it into MO2 like any other mod
 
 ---
 

@@ -71,7 +71,7 @@ In Wabbajack:
 1. Open **Mod Organizer 2** that shipped with High and Dry
 2. Click the Executable drop down and click on **FNVPatch**
 - Check to see if the Binary path is correct before running the patcher
-ex: ![For Reference](4GB Patch.png)
+- https://github.com/Jayer117-ball/HighandDry/blob/main/4GB%20Patch.png
 4. MO2 will load the application
 5. After running `FNVpatch` — it should confirm:  
    `FalloutNV.exe patched!`
@@ -101,16 +101,8 @@ ex: ![For Reference](4GB Patch.png)
 
 ## 📝 Notes
 
-- Expand the **separators in MO2** and read notes on individual mods
+- Expand the **separators in MO2** and read notes on individual mods. Most notes can be expanded for more information.
 - Some mods have extra features or useful usage tips
-
----
-
-## 🛠️ Tools
-
-### GECK, FNVEdit
-
-
 
 ---
 
@@ -143,8 +135,8 @@ To update:
 1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.com/invite/BYY7SNfQeJ)
 2. In MO2:
 - Set NVR load order:
-  - **814** = Normal/HC
-  - **537** = Performance
+  - **823** = Normal/HC
+  - **545** = Performance
 - Enable:
   - Cartographer
   - NVR - Lucky 38 Shadows Fix

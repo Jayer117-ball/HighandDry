@@ -70,7 +70,7 @@ In Wabbajack:
 
 1. Open **Mod Organizer 2** that shipped with High and Dry
 2. Click the Executable drop down and click on **FNVPatch**
-- Check to see if the Binary path is correct before running the patcher
+- Check to see if the Binary path is correct before running the patcher. Yours should point to wherever you installed the list. Example for mine below.
 - https://github.com/Jayer117-ball/HighandDry/blob/main/4GB%20Patch.png
 3. MO2 will load the application
 4. After running `FNVpatch` — it should confirm:  

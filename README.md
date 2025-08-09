@@ -71,7 +71,7 @@ In Wabbajack:
 1. Open **Mod Organizer 2** that shipped with High and Dry
 2. Click the Executable drop down and click on **FNVPatch**
 - Check to see if the Binary path is correct before running the patcher
-ex: https://github.com/Jayer117-ball/HighandDry/blob/main/4GB%20Patch.png
+ex: ![For Reference](4GB Patch.png)
 4. MO2 will load the application
 5. After running `FNVpatch` — it should confirm:  
    `FalloutNV.exe patched!`

@@ -238,9 +238,6 @@ There are **3 profiles**:
 - **Game won’t launch?**  
 Make sure you have the **latest VC++ Redistributables**
 
-- **Still won’t launch?**  
-Make sure you copied **Root Mods** correctly
-
 - **Still still won’t launch?**  
 Make sure the **4GB patch** was applied!
 

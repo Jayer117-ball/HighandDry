@@ -135,8 +135,8 @@ To update:
 1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.com/invite/BYY7SNfQeJ)
 2. In MO2:
 - Set NVR load order:
-  - **823** = Normal/HC
-  - **545** = Performance
+  - **844** = Normal/HC
+  - **566** = Performance
 - Enable:
   - Cartographer
   - NVR - Lucky 38 Shadows Fix
@@ -167,8 +167,8 @@ This mod is optional but it does fix directional reflections in your game, I rec
 Documents\My Games\FalloutNV
 2. Open `RendererInfo.txt`
 3. Find your **shader model** (2nd line from bottom)
-4. Download the correct [shader package](https://www.nexusmods.com/newvegas/mods/69135) based on your model
-5. Install it into MO2 like any other mod
+4. Go into MO2 and locate your shader package number in the shader package separator under Optionals
+5. Enable the box and that's it.
 
 ---
 

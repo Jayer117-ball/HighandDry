@@ -161,7 +161,7 @@ To update:
 
 ### 🔧 Shader Package
 
-This mod is optional but it does fix directional reflctions in your game, I recommend it.
+This mod is optional but it does fix directional reflections in your game, I recommend it.
 
 1. Navigate to:  
 Documents\My Games\FalloutNV

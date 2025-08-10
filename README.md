@@ -84,7 +84,8 @@ In Wabbajack:
 
 ### ⚙️ DXVK or Heap Replacer (Choose One)
 
-- **Default (Recommended):** DXVK 2.7
+- **Default (Recommended):** DXVK 2.6.1
+- Others: DXVK 2.6.2 HDR, 1.10.1 (Intel GPU), 1.10.3 (GPU w/out Vulkan support), and 2.7 (Broken, Not recommended)
 - **Alternative:** New Vegas Heap Replacer. Older, not up to date
 
 > ⚠️ **Only use one**, not both

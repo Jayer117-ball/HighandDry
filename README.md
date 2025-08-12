@@ -19,7 +19,7 @@ Before we start, make sure you have:
   → Extract the archive and run `install_all.bat` as administrator
 - DirectX End-User Runtime:  
   👉 [DirectX Download](https://www.microsoft.com/en-us/download/details.aspx?id=35)
-- Read the **Introduction** and **Setup** pages from the [Viva New Vegas Guide](https://vivanewvegas.moddinglinked.com/intro.html)
+- Read the **Introduction** and **Setup** pages from the [Viva New Vegas Guide](https://vivanewvegas.moddinglinked.com/intro.html). There is a lot of useful information there if you are new to MO2 or if you are an experienced user.
 - Restart your PC
 
 ---

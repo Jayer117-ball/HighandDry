@@ -135,9 +135,8 @@ To update:
 
 1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.com/invite/BYY7SNfQeJ)
 2. In MO2:
-- Set NVR load order:
-  - **844** = Normal/HC
-  - **566** = Performance
+- Manually install NVR and drag it to the "Optional NVR" Separator.
+- Place the mod at the top of the NVR separator so that all the NVR mods below it that you enable will overwrite the mod files.
 - Enable:
   - Cartographer
   - NVR - Lucky 38 Shadows Fix
@@ -153,7 +152,7 @@ To update:
     - Strip Cinematic Lighting Overhaul
 
 - Disable:
-  - Weathers Revised + Weather Variation + the Lucky 38 Lights Redone patch (located in the **Weather Visuals** separator)
+  - Weathers Revised + Weather Variation + the Lucky 38 Lights Redone patch
   - 3D Rain + patches
   - High Resolution Bloom
   - Non-NVR versions of the mods of:

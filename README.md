@@ -150,6 +150,7 @@ To update:
   - NVR versions of:
     - Lucky 38 Exterior Remastered
     - Strip Cinematic Lighting Overhaul
+  - MAC-10 NVR
 
 - Disable:
   - Weathers Revised + Weather Variation + the Lucky 38 Lights Redone patch
@@ -158,6 +159,9 @@ To update:
   - Non-NVR versions of the mods of:
     - Lucky 38 Exterior Remastered
     - Strip Cinematic Lighting Overhaul
+  - Weathers Revised + Variation
+  - Perfect Skies + Patch
+  - Lucky 38 Lights Redone Patch
 
 ### 🔧 Shader Package
 
@@ -232,6 +236,31 @@ There are **3 profiles**:
 | `Mouse Button 3` | Bullet Time |
 
 ---
+## 🌵 Modlist Overview
+
+Here I will go over important parts of the modlist to help you better understand this list! 
+Using **Wabbajack**, the list provides a streamlined installation process along with modern visual upgrades, gameplay refinements, and quality-of-life improvements — all while preserving the spirit and tone of New Vegas.
+
+### ✨ Features
+- **Plug-and-play installation** through Wabbajack  
+- **Updated visuals** I include top of the line visual overhauls that make the mojave beautiful, but dangerous. There are so many visual upgrades but here I want to highlight some notable ones.
+  -  Under **Early Loaders** are the visual baseline mods that I have built the list off of. Under **Visuals** you'll see a majority of the visual upgrades. I followed the SALVO guide for downloading the best retextures on the Nexus so in theory you could finish the rest of the guide by compression and packaging all the restuxtures to make the game run better. But hey, that's justa theory. This list also offers NVR as an optional visual upgrade with shadows, tonemapping, increase LOD range, parrallax, and more.
+- **User Interface** I've spent the majority of my time modifing the UI. It's clean, consistent, colorful where it needs to be, more detailed with widgets, icons, enemy health and boss bars. I hope you enjoy the UI as much as I do.
+- **Gameplay enhancements** Gameplay for this list has changed a lot, but the core is that same. Fun and challenging. This isn't a hardcore list, but it's a list that will challenge you and keep you on your toes.
+    - Enemies are de-leveled
+    - Ghouls are tougher and cause radiation damage
+    - NPC's will feel real, they'll be able to pick up weapons much quicker, react to situations faster, use cover MUCH more, prone, use chems, sprint, react to gunshots, and work as a team to take you down
+    - Damage is redone with damage and health scaling, reworking the DT and DR mechanics to make armor truly matter
+    - No more bullet sponges or meaningless protection
+- **Modern interface improvements** with refined HUD elements and Pip-Boy updates  
+- **Performance-focused design** using DXVK, optimized LODs, and carefully selected textures  
+
+### 🧭 Philosophy
+The goal of **High and Dry** is to provide a **stable, lore-friendly, and atmospheric** experience that feels like a remastered New Vegas without compromising what makes the game iconic.  
+Every mod is chosen and tested with an emphasis on **compatibility, performance, and consistency** to ensure a smooth, crash-free playthrough.
+
+
+This is all starts with Viva New Vegas. A modlist that is now an essential and highly regarded in the FNV community *Shoutout to ModdlingLinked*. 
 
 ## 🆘 Need Help?
 

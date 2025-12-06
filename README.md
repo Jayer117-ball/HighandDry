@@ -82,6 +82,12 @@ In Wabbajack:
 2. Install it manually through **Mod Organizer 2**
 3. Place it **after Vanilla UI Plus** in the left pane
 
+### 📜 Install Cyberware 2281
+
+1. Download [Cyberware 2281](https://mod.pub/falloutnv/15-cyberware-22810)
+2. Install it manually through **Mod Organizer 2**
+3. Place it anywhere in the **Overhauls** separator
+
 ### ⚙️ DXVK or Heap Replacer (Choose One)
 
 - **Default (Recommended):** DXVK 2.6.1
@@ -171,7 +177,7 @@ This mod is optional but it does fix directional reflections in your game, I rec
 Documents\My Games\FalloutNV
 2. Open `RendererInfo.txt`
 3. Find your **shader model** (2nd line from bottom)
-4. Go into MO2 and locate your shader package number in the shader package separator under Optionals
+4. Go into **MO2** and locate your shader package number in the **shader package separator** under **Optionals**
 5. Enable the box and that's it.
 
 ---
@@ -252,14 +258,21 @@ Using **Wabbajack**, the list provides a streamlined installation process along 
     - NPC's will feel real, they'll be able to pick up weapons much quicker, react to situations faster, use cover MUCH more, prone, use chems, sprint, react to gunshots, and work as a team to take you down
     - Damage is redone with damage and health scaling, reworking the DT and DR mechanics to make armor truly matter
     - No more bullet sponges or meaningless protection
-- **Modern interface improvements** with refined HUD elements and Pip-Boy updates  
-- **Performance-focused design** using DXVK, optimized LODs, and carefully selected textures  
+    - Loot is more scarce with Famine
+    - Just Assorted Mods adds a weapon wheel for quick weapon selection, bullet time, dynamic crosshair, visual objectives
+    - More implants with Cyberware 2281
+- **Content** I've also added some new content here and there but not a lot.
+    - A World of Pain Revised adds more locations to explore and quests in an immersive way
+    - Dry Wells - A legion expansion
+    - Long 15 - NCR expansion (will be added in 4.0)
+    - Living Desert makes the Mojave feel more alive with more NPC's and scripted events along your travels
+    - Many location overhauls that I personally like and patched to work together
+    - Lucky 38 Suite Overhaul (my own creation)
+- **Animations** Movement feels smoother and your character feels more alive
 
 ### 🧭 Philosophy
 The goal of **High and Dry** is to provide a **stable, lore-friendly, and atmospheric** experience that feels like a remastered New Vegas without compromising what makes the game iconic.  
 Every mod is chosen and tested with an emphasis on **compatibility, performance, and consistency** to ensure a smooth, crash-free playthrough.
-
-
 This is all starts with Viva New Vegas. A modlist that is now an essential and highly regarded in the FNV community *Shoutout to ModdlingLinked*. 
 
 ## 🆘 Need Help?

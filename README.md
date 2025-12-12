@@ -87,6 +87,7 @@ In Wabbajack:
 1. Download [Cyberware 2281](https://mod.pub/falloutnv/15-cyberware-22810)
 2. Install it manually through **Mod Organizer 2**
 3. Place it anywhere in the **Overhauls** separator
+4. Hide or delete Cyberware OWB. I merged it with the main Cyberware.esm in my patch mod.
 
 ### ⚙️ DXVK or Heap Replacer (Choose One)
 

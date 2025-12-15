@@ -188,7 +188,7 @@ Documents\My Games\FalloutNV
 There are **3 profiles**:
 
 - **Normal:** 2K textures
-- **Performance:** 1K textures
+- **Performance:** 2k textures cut in half with 1k textures where found
 - **Hardcore:** Same as Normal + extra hardcore mods
 
 > 🔹 Run the game through **MO2**
@@ -236,11 +236,13 @@ There are **3 profiles**:
 | `X` + `Q` / `E` | Lean Left / Right While Aiming             |
 | `Hold 1`        | JIP Follower Commands                      |
 | `2`             | Follower Wait *(Hold to make them follow)* |
+| `3`             | Real Time Pip Boy Map (Toggle)             |
 
 ### 🖱️ Mouse
 | Button           | Action      |
 | ---------------- | ----------- |
-| `Mouse Button 3` | Bullet Time |
+| `Mouse Button 4` | Bullet Time |
+| `Mouse Button 3` | Weapon Wheel |
 
 ---
 ## 🌵 Modlist Overview

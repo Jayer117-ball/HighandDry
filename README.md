@@ -105,6 +105,13 @@ In Wabbajack:
 - Let it detect your resolution, then close it
 - Always launch the game via **Mod Organizer 2**
 
+### 🕹 In-Game
+1. Complete the intro with Doc. DO NOT LEAVE THE HOUSE.
+2. Go to the MCM. ESC > M.
+3. Find Quickthrow. Toggle the box to disable the name.
+4. Save and exit the game. Reload your save.
+5. UI should not overlap and the pip boy real time map should be working.
+
 ---
 
 ## 📝 Notes

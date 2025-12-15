@@ -134,6 +134,7 @@ To update:
 - Vanilla UI Extension
 - New Vegas Reloaded
 - Shader Package #
+- Cyberware
 
 ---
 

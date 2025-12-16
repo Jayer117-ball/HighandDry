@@ -91,50 +91,12 @@ In Wabbajack:
 
 ### ⚙️ DXVK or Heap Replacer (Choose One)
 
+- In **Mod Organizer 2** open the **Essentials** separator and read through the notes regarding each version of DXVK and Heap Replacer and decide the version that suits your PC.
 - **Default (Recommended):** DXVK 2.6.1
 - Others: DXVK 2.6.2 HDR, 1.10.1 (Intel GPU), 1.10.3 (GPU w/out Vulkan support), and 2.7 (Broken, Not recommended)
 - **Alternative:** New Vegas Heap Replacer. Older, not up to date
 
 > ⚠️ **Only use one**, not both
-
----
-
-## 🚀 First-Time Launch
-
-- Launch **Fallout: New Vegas through Steam** once to generate config files
-- Let it detect your resolution, then close it
-- Always launch the game via **Mod Organizer 2**
-
-### 🕹 In-Game
-1. Complete the intro with Doc. DO NOT LEAVE THE HOUSE.
-2. Go to the MCM. ESC > M.
-3. Find Quickthrow. Toggle the box to disable the name.
-4. Save and exit the game. Reload your save.
-5. UI should not overlap and the pip boy real time map should be working.
-
----
-
-## 📝 Notes
-
-- Expand the **separators in MO2** and read notes on individual mods. Most notes can be expanded for more information.
-- Some mods have extra features or useful usage tips
-
----
-
-## 🔄 Updating the Modlist
-
-To update:
-
-1. Re-download the Wabbajack file — it will update automatically
-
-2. For any manually added mods:
-- Add `[NoDelete]` to their names
-
-3. Add `[NoDelete]` to:
-- Vanilla UI Extension
-- New Vegas Reloaded
-- Shader Package #
-- Cyberware
 
 ---
 
@@ -190,6 +152,46 @@ Documents\My Games\FalloutNV
 5. Enable the box and that's it.
 
 ---
+
+## 🚀 First-Time Launch
+
+- Launch **Fallout: New Vegas through Steam** once to generate config files
+- Let it detect your resolution, then close it
+- Always launch the game via **Mod Organizer 2**
+
+### 🕹 In-Game
+1. Complete the intro with Doc. DO NOT LEAVE THE HOUSE.
+2. Go to the MCM. ESC > M.
+3. Find Quickthrow. Toggle the box to disable the name.
+4. Save and exit the game. Reload your save.
+5. UI should not overlap and the pip boy real time map should be working.
+
+---
+
+## 📝 Notes
+
+- Expand the **separators in MO2** and read notes on individual mods. Most notes can be expanded for more information.
+- Some mods have extra features or useful usage tips
+
+---
+
+## 🔄 Updating the Modlist
+
+To update:
+
+1. Re-download the Wabbajack file — it will update automatically
+
+2. For any manually added mods:
+- Add `[NoDelete]` to their names
+
+3. Add `[NoDelete]` to:
+- Vanilla UI Extension
+- New Vegas Reloaded
+- Shader Package #
+- Cyberware
+
+---
+
 
 ## 🎮 Running the Game
 

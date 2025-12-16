@@ -302,7 +302,7 @@ Make sure the **4GB patch** was applied!
 - **Still still still won’t launch?**  
 Don’t install FNV to `Program Files` — [learn how to change it](https://vivanewvegas.moddinglinked.com/setup.html)
 
-- **Still still still STILL won’t launch?**
+- **Still still still STILL won’t launch?**   
 Make sure your Fallout New Vegas game folder is completely clean with nothing extra inside. 
 
 - **Still still still still STILL won’t launch?**  

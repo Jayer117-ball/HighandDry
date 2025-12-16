@@ -3,7 +3,7 @@
 
 # High and Dry Modlist Installation Guide
 
-Welcome! This guide will help you install my **Fallout: New Vegas** modlist using **Wabbajack**. Whether you’re new to modding or just need some extra guidance, follow these steps carefully, and you’ll be playing a fully modded New Vegas in no time!
+Welcome! This guide will help you install my **Fallout: New Vegas** modlist using **Wabbajack**. Whether you’re new to modding or just need some extra guidance, follow these steps carefully and in order, and you’ll be playing a fully modded New Vegas in no time!
 
 ---
 
@@ -64,6 +64,14 @@ In Wabbajack:
 
 ---
 
+## 🚀 First-Time Launch
+
+- Launch **Fallout: New Vegas through Steam** once to generate config files
+- Let it detect your resolution, then close it
+- Always launch the game via **Mod Organizer 2**
+
+---
+
 ## 📦 Post-Installation Steps
 
 ### 🔁 Run 4GB Patch
@@ -97,6 +105,13 @@ In Wabbajack:
 - **Alternative:** New Vegas Heap Replacer. Older, not up to date
 
 > ⚠️ **Only use one**, not both
+
+---
+
+## 📝 Notes
+
+- Expand the **separators in MO2** and read notes on individual mods. Most notes can be expanded for more information.
+- Some mods have extra features or useful usage tips
 
 ---
 
@@ -153,25 +168,12 @@ Documents\My Games\FalloutNV
 
 ---
 
-## 🚀 First-Time Launch
-
-- Launch **Fallout: New Vegas through Steam** once to generate config files
-- Let it detect your resolution, then close it
-- Always launch the game via **Mod Organizer 2**
-
 ### 🕹 In-Game
 1. Complete the intro with Doc. DO NOT LEAVE THE HOUSE.
 2. Go to the MCM. ESC > M.
 3. Find Quickthrow. Toggle the box to disable the name.
 4. Save and exit the game. Reload your save.
 5. UI should not overlap and the pip boy real time map should be working.
-
----
-
-## 📝 Notes
-
-- Expand the **separators in MO2** and read notes on individual mods. Most notes can be expanded for more information.
-- Some mods have extra features or useful usage tips
 
 ---
 
@@ -192,7 +194,6 @@ To update:
 
 ---
 
-
 ## 🎮 Running the Game
 
 There are **3 profiles**:
@@ -201,16 +202,18 @@ There are **3 profiles**:
 - **Performance:** 2k textures cut in half with 1k textures where found
 - **Hardcore:** Same as Normal + extra hardcore mods
 
-> 🔹 Run the game through **MO2**
+> 🔹 To play, make sure **New Vegas** is selected in the MO2 drop down
 >  
 > ❌ Do **NOT** use Fallout Launcher or NVSE directly
 
 - Fallout Launcher will appear the **first time** — that's okay
+- Missing profile-specific game INI files — that's okay
+  - Click OK and continue
 - Close it and relaunch the game via MO2
 
 ---
 
-## 🎮 Hotkeys - K in pause menu to view
+## 🎮 Hotkeys - K in pause menu to view. Use Keybinder MCM to configure to your preferences and set up.
 
 ### 🧭 In-Game Menu Shortcuts
 | Key                           | Action                       |

@@ -280,7 +280,7 @@ Using **Wabbajack**, the list provides a streamlined installation process along 
 - **Content** I've also added some new content here and there but not a lot.
     - A World of Pain Revised adds more locations to explore and quests in an immersive way
     - Dry Wells - A legion expansion
-    - Long 15 - NCR expansion (will be added in 4.0)
+    - Long 15 - NCR expansion
     - Living Desert makes the Mojave feel more alive with more NPC's and scripted events along your travels
     - Many location overhauls that I personally like and patched to work together
     - Lucky 38 Suite Overhaul (my own creation)

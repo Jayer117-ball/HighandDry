@@ -127,33 +127,11 @@ In Wabbajack:
 
 1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.com/invite/BYY7SNfQeJ)
 2. In MO2:
+- Switch to one of the NVR profiles
 - Manually install NVR and drag it to the "Optional NVR" Separator.
 - Place the mod at the top of the NVR separator so that all the NVR mods below it that you enable will overwrite the mod files.
-- Enable:
-  - Cartographer
-  - NVR - Lucky 38 Shadows Fix
-  - High and Dry NVR Main Menu Replacer
-  - Desert Natural Weathers + Performance + Dry Wells Patch
-  - Neutral Weathers
-  - Caffeine NVR + Performance + RTR
-  - Sundry NVR Fixes Reloaded 2
-  - SFX NVR Pack
-  - Special Series – Fire Barrel FX
-  - NVR versions of:
-    - Lucky 38 Exterior Remastered
-    - Strip Cinematic Lighting Overhaul
-  - MAC-10 NVR
-
-- Disable:
-  - Weathers Revised + Weather Variation + the Lucky 38 Lights Redone patch
-  - 3D Rain + patches
-  - High Resolution Bloom
-  - Non-NVR versions of the mods of:
-    - Lucky 38 Exterior Remastered
-    - Strip Cinematic Lighting Overhaul
-  - Weathers Revised + Variation
-  - Perfect Skies + Patch
-  - Lucky 38 Lights Redone Patch
+3. Enable either **Hikikomori NVR** or **Caffiene NVR**, your preference.
+  - There are a few performace mods for Caffeiene NVR
 
 ### 🔧 Shader Package
 
@@ -196,11 +174,13 @@ To update:
 
 ## 🎮 Running the Game
 
-There are **3 profiles**:
+There are **5 profiles**:
 
 - **Normal:** 2K textures
 - **Performance:** 2k textures cut in half with 1k textures where found
 - **Hardcore:** Same as Normal + extra hardcore mods
+- **Normal NVR** 2k textures with NVR mods enabled (still need to enable a preset)
+- **Hardcore NVR** Same as Normal + extra hardcore + NVR mods (still need to enable a preset)
 
 > 🔹 To play, make sure **New Vegas** is selected in the MO2 drop down
 >  

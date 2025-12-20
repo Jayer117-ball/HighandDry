@@ -101,10 +101,7 @@ In Wabbajack:
 
 - In **Mod Organizer 2** open the **Essentials** separator and read through the notes regarding each version of DXVK and Heap Replacer and decide the version that suits your PC.
 - **Default (Recommended):** DXVK 2.6.1
-- Others: DXVK 2.6.2 HDR, 1.10.1 (Intel GPU), 1.10.3 (GPU w/out Vulkan support), and 2.7 (Broken, Not recommended)
-- **Alternative:** New Vegas Heap Replacer. Older, not up to date
-
-> ⚠️ **Only use one**, not both
+- Others: DXVK 2.6.2 HDR, 1.10.1 (Intel GPU), and 1.10.3 (GPU w/out Vulkan support)
 
 ---
 

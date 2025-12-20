@@ -97,9 +97,9 @@ In Wabbajack:
 3. Place it anywhere in the **Overhauls** separator
 4. Hide or delete Cyberware OWB. I merged it with the main Cyberware.esm in my patch mod.
 
-### ⚙️ DXVK or Heap Replacer (Choose One)
+### ⚙️ DXVK
 
-- In **Mod Organizer 2** open the **Essentials** separator and read through the notes regarding each version of DXVK and Heap Replacer and decide the version that suits your PC.
+- In **Mod Organizer 2** open the **Essentials** separator and read through the notes regarding each version of DXVK and decide the version that suits your PC.
 - **Default (Recommended):** DXVK 2.6.1
 - Others: DXVK 2.6.2 HDR, 1.10.1 (Intel GPU), and 1.10.3 (GPU w/out Vulkan support)
 
@@ -157,15 +157,15 @@ Documents\My Games\FalloutNV
 To update:
 
 1. Re-download the Wabbajack file — it will update automatically
-
 2. For any manually added mods:
 - Add `[NoDelete]` to their names
-
 3. Add `[NoDelete]` to:
 - Vanilla UI Extension
 - New Vegas Reloaded
 - Shader Package #
 - Cyberware
+4. Re-run the 4GB Patch. (it may need to be re-run)
+5. Complete #2 & #3 from the previous "In-Game" section.
 
 ---
 

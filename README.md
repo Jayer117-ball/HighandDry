@@ -151,6 +151,25 @@ Documents\My Games\FalloutNV
 5. UI should not overlap and the pip boy real time map should be working.
 
 ---
+## 🎮 Running the Game
+
+There are **5 profiles**:
+
+- **Normal:** 2K textures
+- **Performance:** 2k textures cut in half with 1k textures where found
+- **Hardcore:** Same as Normal + extra hardcore mods
+- **Normal NVR** 2k textures with NVR mods enabled (still need to enable a preset)
+- **Hardcore NVR** Same as Normal + extra hardcore + NVR mods (still need to enable a preset)
+
+ 🔹 To play, make sure **New Vegas** is selected in the MO2 drop down  
+ ❌ Do **NOT** use Fallout Launcher or NVSE directly
+
+- Fallout Launcher will appear the **first time** — that's okay
+- Missing profile-specific game INI files — that's okay
+  - Click OK and continue
+- Close it and relaunch the game via MO2
+
+---
 
 ## 🔄 Updating the Modlist
 
@@ -166,27 +185,6 @@ To update:
 - Cyberware
 4. Re-run the 4GB Patch. (it may need to be re-run)
 5. Complete #2 & #3 from the previous "In-Game" section.
-
----
-
-## 🎮 Running the Game
-
-There are **5 profiles**:
-
-- **Normal:** 2K textures
-- **Performance:** 2k textures cut in half with 1k textures where found
-- **Hardcore:** Same as Normal + extra hardcore mods
-- **Normal NVR** 2k textures with NVR mods enabled (still need to enable a preset)
-- **Hardcore NVR** Same as Normal + extra hardcore + NVR mods (still need to enable a preset)
-
-> 🔹 To play, make sure **New Vegas** is selected in the MO2 drop down
->  
-> ❌ Do **NOT** use Fallout Launcher or NVSE directly
-
-- Fallout Launcher will appear the **first time** — that's okay
-- Missing profile-specific game INI files — that's okay
-  - Click OK and continue
-- Close it and relaunch the game via MO2
 
 ---
 

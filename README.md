@@ -177,7 +177,7 @@ To update:
 
 1. Re-download the Wabbajack file — it will update automatically
 2. For any manually added mods:
-- Add `[NoDelete]` to their names
+- Add `[NoDelete]` to the front of a mod name.
 3. Add `[NoDelete]` to:
 - Vanilla UI Extension
 - New Vegas Reloaded

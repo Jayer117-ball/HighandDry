@@ -66,9 +66,9 @@ In Wabbajack:
 
 ## 🚀 First-Time Launch
 
-- Launch **Fallout: New Vegas through Steam** once to generate config files
+- Launch **Fallout: New Vegas** through **Steam** once to generate config files
 - Let it detect your resolution, then close it
-- Always launch the game via **Mod Organizer 2**
+- Now you must **always** launch the game via **Mod Organizer 2**
 
 ---
 

@@ -110,6 +110,7 @@ In Wabbajack:
 
 - Expand the **separators in MO2** and read notes on individual mods. Most notes can be expanded for more information.
 - Some mods have extra features or useful usage tips
+- Click here to read about mods that High & Dry includes -> [High & Dry Gameplay](https://github.com/Jayer117-ball/HighandDry/blob/main/Gameplay.md)
 
 ---
 

@@ -27,6 +27,8 @@ This is **not** a hardcore survival sim or a pure vanilla experience — it sits
 ### 🔊 Speech
 - Charisma is no longer a dump stat. Multiple conditions may now display in a single dialogue option/topic.
 
+---
+
 ## 🔫 Combat Gameplay
 
 ### 🔫 Gunplay
@@ -84,6 +86,8 @@ This is **not** a hardcore survival sim or a pure vanilla experience — it sits
 
 ### 📍 Locations
 - Almost all major cities, towns, outposts, ranger stations have been changed and given a complete make over
+
+---
 
 ## ☢️ Animations
 - ALmost all guns have improved animations

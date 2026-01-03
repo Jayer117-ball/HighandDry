@@ -90,7 +90,7 @@ This is **not** a hardcore survival sim or a pure vanilla experience — it sits
 ---
 
 ## ☢️ Animations
-- ALmost all guns have improved animations
+- Almost all guns have improved animations
 - Almost all movements have improved animations
   - Picking up objects
   - Looting items

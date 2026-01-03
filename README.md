@@ -102,6 +102,7 @@ In Wabbajack:
 - In **Mod Organizer 2** open the **Essentials** separator and read through the notes regarding each version of DXVK and decide the version that suits your PC.
 - **Default (Recommended):** DXVK 2.6.1
 - Others: DXVK 2.6.2 HDR, 1.10.1 (Intel GPU), and 1.10.3 (GPU w/out Vulkan support)
+- You don't need DXVK, but if your setup can run it, I recommend you use it. NVR plays well with it too.
 
 ---
 

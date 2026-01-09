@@ -185,7 +185,6 @@ To update:
 3. Add `[NoDelete]` to:
 - Vanilla UI Extension
 - New Vegas Reloaded
-- Shader Package #
 - Cyberware
 4. Re-run the 4GB Patch. (it may need to be re-run)
 5. Complete #2 & #3 from the previous "In-Game" section.

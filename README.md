@@ -118,7 +118,9 @@ In Wabbajack:
 ### 🕹 In-Game
 1. Complete the intro with Doc. DO NOT LEAVE THE HOUSE.
 2. Save and exit the game. Reload your save.
-3. Pip boy real time map should be working correctly.
+3. **Pip boy real time map** and **Condition Meter Icons** should be working correctly.
+4. Set up hotkeys for grenades, mines, and/or throwables
+5. Equip te weapon > hold "Z" or grab and press G, H, or B and it should create a hotkey for that weapon. Press again to switch back to your previous weapon.
 
 ---
 
@@ -126,6 +128,7 @@ In Wabbajack:
 
 ### 🧃 BSA Decompressor
 
+- FYI: Whenever you to a clean install of New Vegas, you will have to do this step again
 - Go to your installation folder
 - Run `FNV BSA Decompressor.exe`  
 → Reduces load times and stutters
@@ -154,7 +157,7 @@ Documents\My Games\FalloutNV
 
 ## 🎮 Running the Game
 
-There are **5 profiles**:
+There are **4 profiles**: (soon to be 5)
 
 - **Normal:** 2K textures
 - **Hardcore:** Same as Normal + extra hardcore mods
@@ -217,13 +220,13 @@ To update:
 | `T`             | Wait                                       |
 | `V`             | V.A.T.S.                                   |
 | `J`             | Toggle Quest Log                           |
-| `G`             | Throw Grenade *(B42 Quickthrow)*           |
-| `H`             | Select Grenade                             |
-| `R`             | Stop Grenade Throw                         |
+| `G`             | Hotkey you can assign for any weapon       |
+| `H`             | Hotkey you can assign for any weapon       |
+| `B`             | Hotkey you can assign for any weapon       |
 | `O`             | Ammo Check                                 |
 | `P`             | Weapon Condition Check                     |
 | `X` + `Q` / `E` | Lean Left / Right While Aiming             |
-| `Hold 1`        | JIP Follower Commands                      |
+| `Hold 1`        | JIP Follower Commands (toggle)             |
 | `2`             | Follower Wait *(Hold to make them follow)* |
 | `3`             | Real Time Pip Boy Map (Toggle)             |
 

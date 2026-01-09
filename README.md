@@ -217,6 +217,7 @@ To update:
 | `Space`         | Jump                                       |
 | `F`             | Change View (1st/3rd Person)               |
 | `T`             | Wait                                       |
+| `I`             | iHud toggle                                |
 | `V`             | V.A.T.S.                                   |
 | `J`             | Toggle Quest Log                           |
 | `G`             | Hotkey you can assign for any weapon       |

@@ -12,8 +12,198 @@ Welcome! This guide will help you install my **Fallout: New Vegas** modlist usin
 Before we start, make sure you have:
 
 - [Wabbajack](https://www.wabbajack.org/) (latest version)
-- A **clean installation** of Fallout: New Vegas (no mods installed yet)
 - **At least 100 GB** of free space
+- A **clean installation** of Fallout: New Vegas. Read each section below.
+
+<details>
+<summary><strong>Choosing a Location</strong></summary>
+
+<p>
+A <strong>clean installation</strong> is not only required to get rid of any potential leftover mod files, but also to make sure the game is installed in a safe location. Here is what you need to know when choosing where to install your game:
+</p>
+
+<ul>
+  <li><strong>Avoid any default Windows folders</strong>
+    <ul>
+      <li><code>C:\Program Files</code></li>
+      <li><code>C:\Program Files (x86)</code></li>
+      <li><code>Desktop</code></li>
+      <li><code>Documents</code></li>
+    </ul>
+    <p>
+      Users typically lack full write access to <code>Program Files</code>, while <code>Desktop</code> and <code>Documents</code> are often managed by <strong>OneDrive</strong>. This can cause many issues with the game and modding tools.
+    </p>
+    <p><strong>Example of a safe install location:</strong></p>
+    <pre><code>C:\Games</code></pre>
+  </li>
+
+  <li><strong>Install on an SSD if possible</strong><br>
+    Installing the game on an SSD will drastically improve loading times and reduce stuttering.
+  </li>
+</ul>
+
+</details>
+<hr>
+
+<details>
+<summary><strong>Uninstalling the Games</strong></summary>
+
+<p><em>If you never installed New Vegas before, go directly to the next section.</em></p>
+
+<p>
+As the games are available on Steam, GOG, and Epic Games, there are separate instructions for each version. You only need to follow the directions for the version(s) you have.
+</p>
+
+<h3>Steam</h3>
+
+<blockquote>
+  <p><strong>Note:</strong> If you already uninstalled the games, make sure to follow step 4 and 5 to ensure there are no leftovers.</p>
+</blockquote>
+
+<ol>
+  <li>Open Steam and go to your <strong>Library</strong>.</li>
+  <li>Find <strong>Fallout: New Vegas</strong> in the list.</li>
+  <li>Right-click on it and select <strong>Manage</strong> → <strong>Uninstall</strong>.</li>
+  <li>Navigate to <code>Steam\steamapps\common</code> and, if present, delete the <strong>Fallout New Vegas</strong> folder.</li>
+  <li>Navigate to <code>Documents\My Games\FalloutNV</code> and delete all INI files inside it.</li>
+</ol>
+
+<h3>GOG</h3>
+
+<ol>
+  <li>Open GOG and go to your <strong>Library</strong>.</li>
+  <li>Find <strong>Fallout: New Vegas</strong> in the list.</li>
+  <li>Right-click on it and select <strong>Manage Installation</strong> → <strong>Uninstall</strong>.
+    <ul>
+      <li>If you used an offline installer then run the <code>unins000.exe</code> file in the game's <strong>Root</strong> folder.</li>
+    </ul>
+  </li>
+  <li>Navigate to <code>Documents\My Games\FalloutNV</code> and delete all INI files inside it.</li>
+</ol>
+
+<h3>Epic Games</h3>
+
+<blockquote>
+  <p><strong>Note:</strong> If you already uninstalled the games, make sure to follow step 4 to ensure there are no leftovers.</p>
+</blockquote>
+
+<ol>
+  <li>Open the Epic Games Launcher and go to your <strong>Library</strong>.</li>
+  <li>Find <strong>Fallout: New Vegas</strong> in the list.</li>
+  <li>Click on the 3 dots and select <strong>Uninstall</strong> from the menu.</li>
+  <li>Navigate to <code>Documents\My Games\FalloutNV_Epic</code> and delete all INI files inside it.</li>
+</ol>
+
+</details>
+<hr>
+
+<details>
+<summary><strong>Installing the Games</strong></summary>
+
+<p>
+As the games are available on Steam, GOG, and Epic Games, there are separate instructions for each version. You only need to follow the directions for the version(s) you have.
+</p>
+
+<h3>Steam</h3>
+
+<h4>Creating a New Steam Library</h4>
+
+<blockquote>
+  <p>
+    <strong>Important:</strong> It is strongly recommended to install the games outside of any default Windows folders (such as <code>Program Files (x86)</code>), as the strict Windows file protections of these folders can break certain mods/tools.
+    <br><br>
+    Instead, we will use the <strong>Steam Library Setup Tool</strong> to create a new Steam library folder outside of any default Windows folders.
+  </p>
+</blockquote>
+
+<p>
+If you already have Steam installed outside of any default Windows folders, go directly to step 1 of the next section and install the games to your custom Steam library.
+</p>
+
+<ol>
+  <li>Completely exit Steam using Task Manager or the system tray.</li>
+  <li>Download the <code>steam_library_setup_tool-3.2.exe</code> file.</li>
+  <li>Run the tool and add a new entry by clicking <strong>Add Row</strong>.</li>
+  <li>Type the desired path under <strong>Path</strong> (e.g. <code>C:\Games\Steam</code>).</li>
+  <li>Click <strong>Accept</strong>, then <strong>Yes</strong> if prompted to create a new folder.</li>
+  <li>The tool will ask to exit — select <strong>OK</strong>.</li>
+</ol>
+
+<ol>
+  <li>Open Steam and go to your <strong>Library</strong>.</li>
+  <li>Find <strong>Fallout: New Vegas</strong> in the list and select <strong>Install</strong>.</li>
+  <li>Under <strong>Install to</strong>, select the library folder created with the tool.</li>
+  <li>Select <strong>Next</strong> and wait for the installation to finish.</li>
+</ol>
+
+<blockquote>
+  <p><strong>Note:</strong> If you do not see your new library, restart your PC.</p>
+</blockquote>
+
+<h3>GOG</h3>
+
+<ol>
+  <li>Open GOG and go to your <strong>Library</strong>.</li>
+  <li>Find <strong>Fallout: New Vegas</strong> in the list and select <strong>Install</strong>.</li>
+  <li>Set the install location to a folder of your choice.</li>
+  <li>
+    <strong>Required:</strong> Install the game outside of any default Windows folders
+    (e.g. <code>Program Files (x86)</code>).
+  </li>
+</ol>
+
+<h3>Epic Games</h3>
+
+<ol>
+  <li>Open the Epic Games Launcher and go to your <strong>Library</strong>.</li>
+  <li>Find <strong>Fallout: New Vegas</strong> in the list.</li>
+  <li>Click on the game to install it.</li>
+  <li>
+    <strong>Required:</strong> Install the game outside of any default Windows folders
+    (e.g. <code>Program Files (x86)</code>).
+  </li>
+</ol>
+
+</details>
+<hr>
+
+<details>
+<summary><strong>Generating Fresh INI Files</strong></summary>
+
+<ol>
+  <li>
+    Run the game from <strong>Steam</strong> / <strong>GOG Galaxy</strong>, or run
+    <code>FalloutNVLauncher.exe</code> directly from the game files if you are using an offline copy.
+  </li>
+
+  <li>
+    Click <strong>OK</strong> on both pop-ups that say
+    <strong>Detecting Video Hardware</strong>.
+  </li>
+
+  <li>
+    If there are no pop-ups:
+    <ul>
+      <li>
+        Navigate to <code>Documents\My Games\FalloutNV</code>
+      </li>
+      <li>
+        Delete all INI files inside the folder
+      </li>
+      <li>
+        Relaunch the game and try again
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    Click <strong>OK</strong>, then select <strong>Exit</strong>.
+  </li>
+</ol>
+
+</details>
+<hr>
+
 - The latest **VC++ Redistributables**:  
   👉 [VC++ AIO Download](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)  
   → Extract the archive and run `install_all.bat` as administrator

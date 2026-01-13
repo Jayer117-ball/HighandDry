@@ -1,5 +1,5 @@
 
-![Banner Readme](https://github.com/user-attachments/assets/cd44d8cf-4901-48e6-9577-daa3a7deb2fc)
+![Banner Readme](https://raw.githubusercontent.com/Jayer117-ball/HighandDry/refs/heads/main/Banner%20Readme.png)
 
 # High and Dry Modlist Installation Guide
 
@@ -355,7 +355,7 @@ There are **4 profiles**: (soon to be 5)
 - **Hardcore NVR** Same as Normal + extra hardcore + NVR mods (still need to enable a preset)
 - **Performance:** WIP
 
- 🔹 To play, make sure **New Vegas** is selected in the MO2 drop down  
+ 🔹 To play, make sure **High & Dry** is selected in the MO2 drop down  
  ❌ Do **NOT** use Fallout Launcher or NVSE directly
 
 - Fallout Launcher will appear the **first time** — that's okay

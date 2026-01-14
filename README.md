@@ -427,21 +427,20 @@ To update:
 
 ## 🎮 Hotkeys - K in pause menu to view. Use Keybinder MCM to configure to your preferences and set up.
 
-## 🎮 Controls & Hotkeys (Quick Reference)
+| Action | Key / Button | Action | Key / Button | Action | Key / Button |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Pause Menu | `ESC` | Menu Overhauls | `N` | Mod Configuration Menu (MCM) | `M` |
+| Achievements Menu | `T` | HUD Editor | ▲ *(Up Arrow, bottom right)* | Move | `WASD` |
+| Activate / Interact | `E` | Open Pip-Boy | `Tab` | Ready / Reload weapon | `R` |
+| Sneak *(Hold to Prone)* | `L-Ctrl` | Sprint | `L-Shift` | Hold Breath | `L-Alt` |
+| Toggle Always Run | `Caps Lock` | Toggle Always Move | `Q` | Jump | `Space` |
+| Change View (1st/3rd Person) | `F` | Wait | `T` | iHud toggle | `I` |
+| V.A.T.S. | `V` | Toggle Quest Log | `J` | Weapon Hotkey | `G` |
+| Weapon Hotkey | `H` | Weapon Hotkey | `B` | Ammo Check | `O` |
+| Weapon Condition Check | `P` | Lean Left While Aiming | `X + Q` | Lean Right While Aiming | `X + E` |
+| JIP Follower Commands (toggle) | `Hold 1` | Follower Wait *(Hold to make them follow)* | `2` | Real Time Pip Boy Map (Toggle) | `3` |
+| Bullet Time | `Mouse Button 4` | Weapon Wheel | `Mouse Button 3` |  |  |
 
-| Key / Button | Action | Key / Button | Action | Key / Button | Action |
-|---|---|---|---|---|---|
-| `ESC` | Pause Menu | `N` | Menu Overhauls | `M` | Mod Configuration Menu (MCM) |
-| `T` | Achievements Menu | ▲ *(Up Arrow, bottom right)* | HUD Editor | `WASD` | Move |
-| `E` | Activate / Interact | `Tab` | Open Pip-Boy | `R` | Ready / Reload weapon |
-| `L-Ctrl` | Sneak *(Hold to Prone)* | `L-Shift` | Sprint | `L-Alt` | Hold Breath |
-| `Caps Lock` | Toggle Always Run | `Q` | Toggle Always Move | `Space` | Jump |
-| `F` | Change View (1st/3rd Person) | `T` | Wait | `I` | iHud toggle |
-| `V` | V.A.T.S. | `J` | Toggle Quest Log | `G` | Hotkey you can assign for any weapon |
-| `H` | Hotkey you can assign for any weapon | `B` | Hotkey you can assign for any weapon | `O` | Ammo Check |
-| `P` | Weapon Condition Check | `X + Q` | Lean Left While Aiming | `X + E` | Lean Right While Aiming |
-| `Hold 1` | JIP Follower Commands (toggle) | `2` | Follower Wait *(Hold to make them follow)* | `3` | Real Time Pip Boy Map (Toggle) |
-| `Mouse Button 4` | Bullet Time | `Mouse Button 3` | Weapon Wheel |  |  |
 
 ---
 

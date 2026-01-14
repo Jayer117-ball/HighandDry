@@ -427,48 +427,21 @@ To update:
 
 ## 🎮 Hotkeys - K in pause menu to view. Use Keybinder MCM to configure to your preferences and set up.
 
-### 🧭 In-Game Menu Shortcuts
-| Key                           | Action                       |
-| ----------------------------- | ---------------------------- |
-| `ESC`                         | Pause Menu                   |
-| `N`                           | Menu Overhauls               |
-| `M`                           | Mod Configuration Menu (MCM) |
-| `T`                           | Achievements Menu            |
-| 🔼 *(Up Arrow, bottom right)* | HUD Editor                   |
+## 🎮 Controls & Hotkeys (Quick Reference)
 
-### ⌨️ Keyboard Controls
-| Key / Combo     | Action                                     |
-| --------------- | ------------------------------------------ |
-| `WASD`          | Move                                       |
-| `E`             | Activate / Interact                        |
-| `Tab`           | Open Pip-Boy                               |
-| `R`             | Ready / Reload weapon                      |
-| `L-Ctrl`        | Sneak *(Hold to Prone)*                    |
-| `L-Shift`       | Sprint                                     |
-| `L-Alt`         | Hold Breath                                |
-| `Caps Lock`     | Toggle Always Run                          |
-| `Q`             | Toggle Always Move                         |
-| `Space`         | Jump                                       |
-| `F`             | Change View (1st/3rd Person)               |
-| `T`             | Wait                                       |
-| `I`             | iHud toggle                                |
-| `V`             | V.A.T.S.                                   |
-| `J`             | Toggle Quest Log                           |
-| `G`             | Hotkey you can assign for any weapon       |
-| `H`             | Hotkey you can assign for any weapon       |
-| `B`             | Hotkey you can assign for any weapon       |
-| `O`             | Ammo Check                                 |
-| `P`             | Weapon Condition Check                     |
-| `X` + `Q` / `E` | Lean Left / Right While Aiming             |
-| `Hold 1`        | JIP Follower Commands (toggle)             |
-| `2`             | Follower Wait *(Hold to make them follow)* |
-| `3`             | Real Time Pip Boy Map (Toggle)             |
-
-### 🖱️ Mouse
-| Button           | Action        |
-| ---------------- | ------------- |
-| `Mouse Button 4` | Bullet Time   |
-| `Mouse Button 3` | Weapon Wheel  |
+| Key / Button | Action | Key / Button | Action | Key / Button | Action |
+|---|---|---|---|---|---|
+| `ESC` | Pause Menu | `N` | Menu Overhauls | `M` | Mod Configuration Menu (MCM) |
+| `T` | Achievements Menu | ▲ *(Up Arrow, bottom right)* | HUD Editor | `WASD` | Move |
+| `E` | Activate / Interact | `Tab` | Open Pip-Boy | `R` | Ready / Reload weapon |
+| `L-Ctrl` | Sneak *(Hold to Prone)* | `L-Shift` | Sprint | `L-Alt` | Hold Breath |
+| `Caps Lock` | Toggle Always Run | `Q` | Toggle Always Move | `Space` | Jump |
+| `F` | Change View (1st/3rd Person) | `T` | Wait | `I` | iHud toggle |
+| `V` | V.A.T.S. | `J` | Toggle Quest Log | `G` | Hotkey you can assign for any weapon |
+| `H` | Hotkey you can assign for any weapon | `B` | Hotkey you can assign for any weapon | `O` | Ammo Check |
+| `P` | Weapon Condition Check | `X + Q` | Lean Left While Aiming | `X + E` | Lean Right While Aiming |
+| `Hold 1` | JIP Follower Commands (toggle) | `2` | Follower Wait *(Hold to make them follow)* | `3` | Real Time Pip Boy Map (Toggle) |
+| `Mouse Button 4` | Bullet Time | `Mouse Button 3` | Weapon Wheel |  |  |
 
 ---
 

@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">High and Dry</h1>
+<h1 align="center">High & Dry</h1>
 <p align="center"><b>Fallout: New Vegas — Wabbajack Modlist Installation Guide</b></p>
 
 <!-- Link Bar -->

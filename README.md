@@ -62,6 +62,8 @@ Before we start, make sure you have:
 - **At least 100 GB** of free space
 - A **clean installation** of Fallout: New Vegas. Read each section below.
 
+---
+
 <details id="choosing-a-location">
 <summary><strong>Choosing a Location</strong></summary>
 

@@ -450,10 +450,22 @@ Here I will go over important parts of the modlist to help you better understand
 Using **Wabbajack**, the list provides a streamlined installation process along with modern visual upgrades, gameplay refinements, and quality-of-life improvements — all while preserving the spirit and tone of New Vegas.
 
 ### ✨ Features
-(keep your existing overview text here — it’s good)
+**Plug-and-play installation** through Wabbajack 
+- **Updated visuals:** I include top of the line visual overhauls that make the mojave beautiful, but dangerous. There are so many visual upgrades but here I want to highlight some notable ones.
+- **Early Loaders:** are the visual baseline mods that I have built the list off of.
+- **Visuals:** you'll see a majority of the visual upgrades that are packed into BSA's. This list also offers NVR as an optional visual upgrade with shadows, tonemapping, increase LOD range, parrallax, and more. 
+- **User Interface:** I've spent the majority of my time modifing the UI. It's clean, consistent, colorful where it needs to be, more detailed with widgets, icons, enemy health and boss bars. I hope you enjoy the UI as much as I do.
+- **Gameplay enhancements:** Gameplay for this list has changed a lot, but the core is that same. Fun and challenging. This isn't a hardcore list, but it's a list that will challenge you and keep you on your toes. - Enemies are de-leveled - Ghouls are tougher and cause radiation damage - NPC's will feel real, they'll be able to pick up weapons much quicker, react to situations faster, use cover MUCH more, prone, use chems, sprint, react to gunshots, and work as a team to take you down
+  - Damage is redone with damage and health scaling, reworking the DT and DR mechanics to make armor truly matter
+  - No more bullet sponges or meaningless protection 
+  - Loot is more scarce with Famine
+  - Just Assorted Mods adds a weapon wheel for quick weapon selection, bullet time, dynamic crosshair, visual objectives
+  - More implants with Cyberware 2281
+- **Content:** I've also added some new content here and there but not a lot. - A World of Pain Revised adds more locations to explore and quests in an immersive way - Dry Wells - A legion expansion - Long 15 - NCR expansion - Living Desert makes the Mojave feel more alive with more NPC's and scripted events along your travels - Many location overhauls that I personally like and patched to work together - Lucky 38 Suite Overhaul (my own creation)
+- **Animations:** Movement feels smoother and your character feels more alive
 
 ### 🧭 Philosophy
-(keep your existing philosophy text here — also good)
+The goal of **High and Dry** is to provide a **stable, lore-friendly, and atmospheric** experience that feels like a remastered New Vegas without compromising what makes the game iconic. Every mod is chosen and tested with an emphasis on **compatibility, performance, and consistency** to ensure a smooth, less-crash playthrough. This is all starts with Viva New Vegas. A modlist that is now an essential and highly regarded in the FNV community *Shoutout to ModdlingLinked*.
 
 ---
 

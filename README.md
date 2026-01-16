@@ -285,7 +285,6 @@ Create a **separate**, empty folder for the modlist installation.
 
 Example: C:\Modding\HighAndDry
 
-
 ### 5. Begin Installation
 In Wabbajack:
 - Select your installation and download folders
@@ -314,7 +313,7 @@ In Wabbajack:
 1. Open **Mod Organizer 2** that shipped with High and Dry  
 2. Click the Executable drop down and click on **FNVPatch**
 - Check to see if the Binary path is correct before running the patcher. Yours should point to wherever you installed the list. And the **"Start in"** path points to your **game folder**. Example for mine below.
-- ![Example](https://raw.githubusercontent.com/Jayer117-ball/HighandDry/refs/heads/main/4GB%20Patch%20Fixed.png)
+![Example](https://raw.githubusercontent.com/Jayer117-ball/HighandDry/refs/heads/main/4GB%20Patch%20Fixed.png)
 3. MO2 will load the application
 4. After running `FNVpatch` — it should confirm:  
    `FalloutNV.exe patched!`

@@ -319,12 +319,6 @@ In Wabbajack:
 4. After running `FNVpatch` — it should confirm:  
    `FalloutNV.exe patched!`
 
-### 📜 Install Vanilla UI Extension
-
-1. Download [Vanilla UI Extension](https://www.moddb.com/mods/vanilla-ui-extension/downloads/vanilla-ui-extension-10)
-2. Install it manually through **Mod Organizer 2**
-3. Place it **after Vanilla UI Plus** in the left pane
-
 ### 📜 Install Cyberware 2281
 
 1. Download [Cyberware 2281](https://mod.pub/falloutnv/15-cyberware-22810)

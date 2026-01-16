@@ -33,7 +33,6 @@
 - 🚀 [First-Time Launch](#-first-time-launch)
 - 📦 [Post-Installation Steps](#-post-installation-steps)
   - 🔁 [Run 4GB Patch](#-run-4gb-patch)
-  - 📜 [Install Vanilla UI Extension](#-install-vanilla-ui-extension)
   - 📜 [Install Cyberware 2281](#-install-cyberware-2281)
   - ⚙️ [DXVK](#️-dxvk)
 - 📝 [Notes](#-notes)

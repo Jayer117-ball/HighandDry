@@ -310,10 +310,10 @@ In Wabbajack:
 ### 🔁 Run 4GB Patch
 
 1. Open **Mod Organizer 2** that shipped with High and Dry  
-2. Click the Executable drop down and click on **FNVPatch**
-- Check to see if the Binary path is correct before running the patcher. Yours should point to wherever you installed the list. And the **"Start in"** path points to your **game folder**. Example for mine below.
-![Example](https://raw.githubusercontent.com/Jayer117-ball/HighandDry/refs/heads/main/4GB%20Patch%20Fixed.png)
-3. MO2 will load the application
+2. A window will open asking you what platform you are running New Vegas with. Steam-GOG or Epic Games.
+3. Choose your platform.
+4. FNVPatch will then launch, follow the directions on the FNVPatch executable.
+5. Your New Vegas is now patched!
 4. After running `FNVpatch` — it should confirm:  
    `FalloutNV.exe patched!`
 

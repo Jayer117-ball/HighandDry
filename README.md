@@ -304,9 +304,9 @@ In Wabbajack:
 
 ## 🚀 First-Time Launch
 
-- Launch **Fallout: New Vegas** through **Steam** once to generate config files
-- Let it detect your resolution, then close it
-- Now you must **always** launch the game via **Mod Organizer 2**
+- Launch **Fallout: New Vegas** through **Steam**, **GOG**, or **Epic** once to generate config files.
+- Let it detect your resolution, then close it.
+- Now you must **always** launch the High & Dry option via **Mod Organizer 2** to play the game.
 
 ---
 

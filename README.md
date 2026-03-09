@@ -52,6 +52,11 @@
 Welcome! This guide will help you install my **Fallout: New Vegas** modlist using **Wabbajack**. Whether you’re new to modding or just need some extra guidance, follow these steps carefully and in order, and you’ll be playing a fully modded New Vegas in no time!
 
 ---
+## 📌 Rootbuilder
+
+- This modlist uses a plugin called Rootbuilder. It allows you to manage files in the base game directory through Mod Organizer. And keeps your game folder untouched and as clean as the day it was installed.
+- You do not need to manually install a single mod or exe into your game folder.
+- Please before you try to play the list make sure to follow the steps below if you have placed any contents into your game folder.
 
 ## 📌 Requirements
 

@@ -26,7 +26,13 @@
       "download": "https://authored-files.wabbajack.org/High and Dry.wabbajack_baacdbf7-329b-4360-9691-3c363994ca97",
       "machineURL": "highanddry",
       "discordURL": "https://discord.gg/zV5zACunk3",
-      "websiteURL": "https://github.com/Jayer117-ball/HighandDry/blob/main/README.md"
+      "websiteURL": "https://github.com/Jayer117-ball/HighandDry/blob/main/README.md",
+      "nexusCollection": {
+        "collectionId": "428105",
+        "slug": "7nhamr",
+        "domainName": "newvegas",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "aZKXZpmeK0E=",

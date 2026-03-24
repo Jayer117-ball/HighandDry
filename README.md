@@ -33,7 +33,6 @@
 - 🚀 [First-Time Launch](#-first-time-launch)
 - 📦 [Post-Installation Steps](#-post-installation-steps)
   - 🔁 [Run 4GB Patch](#-run-4gb-patch)
-  - 📜 [Install Cyberware 2281](#-install-cyberware-2281)
   - ⚙️ [DXVK](#️-dxvk)
 - 📝 [Notes](#-notes)
 - 🕹 [In-Game](#-in-game)
@@ -52,9 +51,9 @@
 Welcome! This guide will help you install my **Fallout: New Vegas** modlist using **Wabbajack**. Whether you’re new to modding or just need some extra guidance, follow these steps carefully and in order, and you’ll be playing a fully modded New Vegas in no time!
 
 ---
-## 📌 Rootbuilder
+## 📌 Rootbuilder & Stock Game
 
-- This modlist uses a plugin called Rootbuilder. It allows you to manage files in the base game directory through Mod Organizer. And keeps your game folder untouched and as clean as the day it was installed.
+- This modlist uses a plugin called Rootbuilder and a Stock Game folder so you don't touch your game folder at all.
 - You do not need to manually install a single mod or exe into your game folder.
 - Please before you try to play the list make sure to follow the steps below if you have placed any contents into your game folder.
 
@@ -321,13 +320,6 @@ In Wabbajack:
 5. Your New Vegas is now patched!
 4. After running `FNVpatch` — it should confirm:  
    `FalloutNV.exe patched!`
-
-### 📜 Install Cyberware 2281
-
-1. Download [Cyberware 2281](https://mod.pub/falloutnv/15-cyberware-22810)
-2. Install it manually through **Mod Organizer 2**
-3. Place it anywhere in the **Overhauls** separator
-4. Hide or delete Cyberware OWB. I merged it with the main Cyberware.esm in my patch mod.
 
 ### ⚙️ DXVK
 

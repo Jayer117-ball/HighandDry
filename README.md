@@ -446,7 +446,6 @@ Using **Wabbajack**, the list provides a streamlined installation process along 
   - No more bullet sponges or meaningless protection 
   - Loot is more scarce with Famine
   - Just Assorted Mods adds a weapon wheel for quick weapon selection, bullet time, dynamic crosshair, visual objectives
-  - More implants with Cyberware 2281
 - **Content:** I've also added some new content here and there but not a lot. - A World of Pain Revised adds more locations to explore and quests in an immersive way - Dry Wells - A legion expansion - Long 15 - NCR expansion - Living Desert makes the Mojave feel more alive with more NPC's and scripted events along your travels - Many location overhauls that I personally like and patched to work together - Lucky 38 Suite Overhaul (my own creation)
 - **Animations:** Movement feels smoother and your character feels more alive
 

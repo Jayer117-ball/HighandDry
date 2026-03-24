@@ -406,12 +406,8 @@ To update:
 
 1. For any manually added mods:
 - Add `[NoDelete]` to the front of a mod name.
-  - Add `[NoDelete]` to:
-    - New Vegas Reloaded
-    - Cyberware
 2. Re-download the Wabbajack file — it will update automatically
-4. Re-run the 4GB Patch. (it may need to be re-run)
-5. Complete #2 & #3 from the previous "In-Game" section.
+3. Complete #2 & #3 from the previous "In-Game" section.
 
 ---
 

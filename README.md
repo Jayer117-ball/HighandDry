@@ -294,6 +294,9 @@ In Wabbajack:
 - Click **Begin Installation**
 - If you don’t have a Nexus Premium account, you’ll need to manually download each mod
 
+### 6. ManualURL Wabbajack
+In the Wabbajack download you will need to create a login for ggmods. Once you finish creating an account or logged in, you will need to retry the Wabbajack installation. After retrying the Wabbajack download the ggmods mod will automatically start downloading.
+
 ### 6. Finish Installation
 - ✅ If successful: You'll see **"Installation Complete"**
 - ❌ If failed: Log in to Nexus Mods again via Wabbajack and try reinstalling

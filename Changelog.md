@@ -1,48 +1,24 @@
 # Changelog
 
-## [4.2] - 2025-12-11
+## [5.0] NOT save safe - 3/23/2026
 
-### Updated
-- xNVSE
-- JohnnyGuitar
-- Keybinder
-- DOF Fix
-- ySI Fixes
-- Pipboy Holo Panel
-- Working Clock
-- Modern Minimap
-- Real time Pip Bpy
-- Wakey Wakey
-- Vanilla Enhancemnets
-- Agua Fria
-- Goodies
-- Lively Grb n' Gulp
-- Hit - Explosives
-- B42 Inertia
-- Lumen Extended
-- Cartographer
-- Sandstone Desert
-- H&D Patches
-- H&D INI Presets
+### Added:
+- High and Dry now uses a Stock Game, which is included in the MO2 instace. After downloading and installing, MO2 will now use the stock game that it comes with to run the game. You will need a clean copy of Fallout New Vegas installed but now nothing in your game folder will conflict of the copy of New Vegas that MO2 now uses.
 
-### Added
-- B42 Quickthrow mods (re-added with a Contextual fix)
-- Contextual HUD Redone
-- Honest Hearts 2K
-- Classic Adobe Camp McCarran
+## Mods Added:
+- Mojave Revised
+- Great Giuseppe Overhaul
+- Great Interior Overhaul + DLC
+- DM's Open Crimson Caravan
+- Lucky 38 View
+- Ruins of South Vegas
+- MAC-TEN FO3 (ggmods)
+- Functional Backpacks
+- Simple Economy eXpansion
+- and more smaller mods to fll in immersion, textures, and patches
 
-### Removed
-- oHUD
-- Grenade Key
-- Mine Key
-- Open Camp McCarran (Pathing and Navmesh issues)
-- Windows of the Mojave
-- True Movement
-- Condition Meter Icons (too much of a hassle/ don't work as intended)
+### Removed:
+- A lot
 
-### Notable Fixes/Changes
-- Novac is fixed
-- Bison Steve is fixed
-- Wolfhorn bridge is fixed (again x3)
-- Vault 11 entrance fixed
-- UI is changed again slightly
+### Updated:
+- A lot

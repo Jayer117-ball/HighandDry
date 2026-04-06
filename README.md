@@ -385,13 +385,13 @@ Documents\My Games\FalloutNV
 
 ## 🎮 Running the Game
 
-There are **4 profiles**: (soon to be 5)
+There are **5 profiles**:
 
 - **Normal:** 2K textures
 - **Hardcore:** Same as Normal + extra hardcore mods
 - **Normal NVR** 2k textures with NVR mods enabled (still need to enable a preset)
 - **Hardcore NVR** Same as Normal + extra hardcore + NVR mods (still need to enable a preset)
-- **Performance:** WIP
+- **Performance:** Many 2K textures are disabled and optional performance mods are enabled
 
 🔹 To play, make sure **High & Dry** is selected in the MO2 drop down  
 ❌ Do **NOT** use Fallout Launcher or NVSE directly

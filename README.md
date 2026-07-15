@@ -294,9 +294,6 @@ In Wabbajack:
 - Click **Begin Installation**
 - If you don’t have a Nexus Premium account, you’ll need to manually download each mod
 
-### 6. ManualURL Wabbajack
-In the Wabbajack download you will need to create a login for ggmods. Once you finish creating an account or logged in, you will need to retry the Wabbajack installation. After retrying the Wabbajack download, the ggmods mod will automatically start downloading.
-
 ### 6. Finish Installation
 - ✅ If successful: You'll see **"Installation Complete"**
 - ❌ If failed: Log in to Nexus Mods again via Wabbajack and try reinstalling
@@ -326,9 +323,14 @@ In the Wabbajack download you will need to create a login for ggmods. Once you f
 
 ### ⚙️ DXVK
 
-- In **Mod Organizer 2** open the **Essentials** separator and read through the notes regarding each version of DXVK and decide the version that suits your PC.
-- **Default (Recommended):** DXVK 2.6.1
-- Others: DXVK 2.7.1, 2.6.2 HDR, 1.10.1 (Intel GPU), and 1.10.3 (GPU w/out Vulkan support)
+- In **Mod Organizer 2** open the **DXVK** separator and read through the notes regarding each version of DXVK and decide the version that suits your PC.
+- There are several different version that come with the list: (**None are enabled by default so you will have to decide and do research on which one will work for your setup**)
+  - 3.0.1 (Vulkan 1.4)
+  - 3.0.1 HDR
+  - 2.6.1 (Vulkan 1.3)
+  - 2.6.1 HDR
+  - 1.10.1 (Intel GPU)
+  - 1.10.3 (GPU w/out Vulkan support)
 - You don't need DXVK, but if your setup can run it, I recommend you use it. NVR plays well with it too.
 
 ---
@@ -429,7 +431,6 @@ To update:
 | Weapon Condition Check | `P` | Lean Left While Aiming | `X + Q` | Lean Right While Aiming | `X + E` |
 | JIP Follower Commands (toggle) | `Hold 1` | Follower Wait *(Hold to make them follow)* | `2` | Real Time Pip Boy Map (Toggle) | `3` |
 | Bullet Time | `Mouse Button 4` | Weapon Wheel | `Mouse Button 3` |  |  |
-
 
 ---
 

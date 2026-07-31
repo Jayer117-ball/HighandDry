@@ -325,8 +325,6 @@ In Wabbajack:
 
 - In **Mod Organizer 2** open the **DXVK** separator and read through the notes regarding each version of DXVK and decide the version that suits your PC.
 - There are several different version that come with the list: (**None are enabled by default so you will have to decide and do research on which one will work for your setup**)
-  - 3.0.1 (Vulkan 1.4)
-  - 3.0.1 HDR
   - 2.6.1 (Vulkan 1.3)
   - 2.6.1 HDR
   - 1.10.1 (Intel GPU)

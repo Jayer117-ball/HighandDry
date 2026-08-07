@@ -365,9 +365,9 @@ In Wabbajack:
 
 1. Download the **latest Nightly Build** from [TES Reloaded Discord](https://discord.com/invite/BYY7SNfQeJ)
 2. In MO2:
-- Switch to one of the NVR profiles
-- Manually install NVR and drag it to the **"Place NVR Here"** separator
-3. Enable either **Hikikomori NVR** or **Caffiene NVR**, your preference.
+   - Switch to one of the NVR profiles
+   - Manually install NVR and drag it to the **"Place NVR Here"** separator
+4. Enable either **Hikikomori NVR** or **Caffiene NVR**, your preference.
   - There are a few performance mods for both presets
 
 ### 🔧 Shader Package

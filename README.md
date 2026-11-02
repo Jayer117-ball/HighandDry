@@ -337,7 +337,6 @@ In Wabbajack:
 
 - Expand the **separators in MO2** and read notes on individual mods. Most notes can be expanded for more information.
 - Some mods have extra features or useful usage tips
-- Click here to read about mods that High & Dry includes -> [High & Dry Gameplay](https://github.com/Jayer117-ball/HighandDry/blob/main/Gameplay.md)
 - Crash logs are located here: MO2 > Overwrite > Root
 
 ---
@@ -348,7 +347,7 @@ In Wabbajack:
 2. Save and exit the game. Reload your save.
 3. **Pip boy real time map** and **Condition Meter Icons** should be working correctly.
 4. Set up hotkeys for grenades, mines, and/or throwables
-5. Equip the weapon > hold "Z" or grab and press G, H, or B and it should create a hotkey for that weapon. Press again to switch back to your previous weapon.
+5. Equip the weapon > hold "Z" and press G, H, or B and it should create a hotkey for that weapon. Press G, H, or B again to switch back to your previous weapon.
 
 ---
 
